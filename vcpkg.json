@@ -1,0 +1,12 @@
+{
+    "name" : "qscintilla-qt5-example",
+    "version-string" : "1.0.0",
+    "dependencies" : [
+        "qt5-base",
+        {
+            "name" : "qscintilla",
+            "version>=" : "2.13.4#2"
+        }
+    ],
+    "builtin-baseline" : "58cf7efd4629b58d70c4a1b9c1b6d69c59526d95"
+}
